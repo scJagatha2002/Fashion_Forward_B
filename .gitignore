@@ -1,0 +1,15 @@
+# Ignore Python virtual environment folders
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore specific large files
+*.dll
+*.pyd
+*.h5
+
+
+# Ignore library files
+Lib/site-packages/
